@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AvipsaMukhopadhyay
-- 👀 I’m highly interested in coding and reasearching
+- 👀 I’m passionate about coding and reasearching
 <!---
 AvipsaMukhopadhyay/AvipsaMukhopadhyay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
